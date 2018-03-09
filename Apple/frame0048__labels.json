@@ -1,0 +1,19 @@
+{
+    "labels": [
+        {
+            "label_type": "box", 
+            "label_class": "Apple", 
+            "centre": {
+                "y": 189.0, 
+                "x": 458.0
+            }, 
+            "object_id": 1, 
+            "size": {
+                "y": 92, 
+                "x": 94
+            }
+        }
+    ], 
+    "complete": null, 
+    "image_filename": "frame0048.jpg"
+}

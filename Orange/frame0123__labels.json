@@ -1,0 +1,19 @@
+{
+    "labels": [
+        {
+            "label_type": "box", 
+            "label_class": "Orange", 
+            "centre": {
+                "y": 150.5, 
+                "x": 357.5
+            }, 
+            "object_id": 1, 
+            "size": {
+                "y": 107, 
+                "x": 107
+            }
+        }
+    ], 
+    "complete": null, 
+    "image_filename": "frame0123.jpg"
+}
